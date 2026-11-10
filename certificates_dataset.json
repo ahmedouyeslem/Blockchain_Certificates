@@ -1,0 +1,78 @@
+{
+  "dataset_name": "CertiChain university diploma demo dataset",
+  "note": "Records are fictional demonstration data, not verified real people or official university credentials.",
+  "certificates": [
+    {
+      "matricule": "UNA 27001",
+      "student": "Ahmed Ould Mohamed",
+      "university": "Université de Nouakchott",
+      "field": "Fin-Tech",
+      "degree": "Licence",
+      "year": "2027"
+    },
+    {
+      "matricule": "UNA 27002",
+      "student": "Fatimetou Mint Ahmed",
+      "university": "Université de Nouakchott",
+      "field": "Économie",
+      "degree": "Licence",
+      "year": "2026"
+    },
+    {
+      "matricule": "UNA 27003",
+      "student": "Mohamed Salem Ould Ali",
+      "university": "Université de Nouakchott",
+      "field": "Informatique",
+      "degree": "Licence",
+      "year": "2025"
+    },
+    {
+      "matricule": "UNA 27004",
+      "student": "Aminetou Mint Sidi",
+      "university": "Université de Nouakchott",
+      "field": "Gestion",
+      "degree": "Licence",
+      "year": "2027"
+    },
+    {
+      "matricule": "UNA 27005",
+      "student": "Sidi Mohamed Ould Brahim",
+      "university": "Université de Nouakchott",
+      "field": "Finance",
+      "degree": "Master",
+      "year": "2026"
+    },
+    {
+      "matricule": "UNA 27006",
+      "student": "Mariem Mint El Hacen",
+      "university": "Université de Nouakchott",
+      "field": "Droit",
+      "degree": "Licence",
+      "year": "2025"
+    },
+    {
+      "matricule": "UNA 27007",
+      "student": "Yahya Ould Mahmoud",
+      "university": "Université de Nouakchott",
+      "field": "Mathématiques",
+      "degree": "Licence",
+      "year": "2026"
+    },
+    {
+      "matricule": "UNA 27008",
+      "student": "Khadiata Mint Mohamed",
+      "university": "Université de Nouakchott",
+      "field": "Banque et Finance",
+      "degree": "Master",
+      "year": "2027"
+    },
+    {
+      "matricule": "IUP270001",
+      "student": "Ahmed",
+      "university": "IUP",
+      "field": "MAN",
+      "degree": "Licence",
+      "year": "2027"
+    }
+  ]
+}
